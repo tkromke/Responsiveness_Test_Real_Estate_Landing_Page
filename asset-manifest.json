@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Responsiveness_Test_Real_Estate_Landing_Page/static/css/main.eda6eec5.css",
+    "main.js": "/Responsiveness_Test_Real_Estate_Landing_Page/static/js/main.d381f99e.js",
+    "static/js/787.e2fbe706.chunk.js": "/Responsiveness_Test_Real_Estate_Landing_Page/static/js/787.e2fbe706.chunk.js",
+    "index.html": "/Responsiveness_Test_Real_Estate_Landing_Page/index.html",
+    "main.eda6eec5.css.map": "/Responsiveness_Test_Real_Estate_Landing_Page/static/css/main.eda6eec5.css.map",
+    "main.d381f99e.js.map": "/Responsiveness_Test_Real_Estate_Landing_Page/static/js/main.d381f99e.js.map",
+    "787.e2fbe706.chunk.js.map": "/Responsiveness_Test_Real_Estate_Landing_Page/static/js/787.e2fbe706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda6eec5.css",
+    "static/js/main.d381f99e.js"
+  ]
+}
